@@ -1,0 +1,4 @@
+
+    Un student vrea să plece la New York și pentru a-și face bagajele, a trebuit să afle că temperatura de acolo este în jur de 460F (Fahrenheit). Ajutați-l să convertească orice temperatură citită de la tastatură din 0F în 0C, cunoscând că formula este:
+
+0C = (0F - 32) / 1.8.

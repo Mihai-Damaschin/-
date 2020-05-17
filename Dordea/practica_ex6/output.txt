@@ -1,0 +1,14 @@
+Lunile ce au valorile termice cuprinse intre 2.0 si 6.0 sunt:
+Aprilie
+August
+Decembrie
+Iulie
+Mai
+Martie
+SeptembrieOctombrie
+
+Lunile ce au valorile termice cuprinse intre 1.0 si 3.0 sunt:
+Februarie
+Iunie
+Noiembrie
+

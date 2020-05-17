@@ -1,0 +1,1 @@
+Folosiți exemplul 1.4 și ajustați programul, pentru a citi informația despre un telefon: marcă, model, memorie de stocare, culoare, preț. Informația citită să se afișeze într-o linie separate prin tabulare, ca în exemplul următor:

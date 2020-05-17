@@ -1,0 +1,3 @@
+first Timp: 15  Cost: 125.00
+second Timp: 5  Cost: 25.00
+

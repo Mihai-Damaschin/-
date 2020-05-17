@@ -1,0 +1,1 @@
+Un student a fost admis la facultatea de Fizică, Matematică și Tehnologii Informaționale. El vrea să elaboreze un program care citește denumirea facultății și afișează acronimul ei - FMTI, utilizând câte o variabilă de tip șir de caractere pentru fiecare cuvânt din denumire, de exemplu n1, n2, n3, n4.

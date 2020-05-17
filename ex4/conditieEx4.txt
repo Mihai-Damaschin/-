@@ -1,0 +1,1 @@
+Modificați programul din exemplul 1.7 pentru celelalte operații aritmetice: mai întâi diferența, apoi produsul și câtul.
