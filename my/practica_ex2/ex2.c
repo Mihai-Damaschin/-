@@ -18,7 +18,7 @@ void main () {
         "Purcel"
     };
 
-    printf("Introduceti numarul: ");
+    printf("Introduceti anul: ");
     scanf("%i", &n);
 
     k = (n > 1984 ? n - 1984 : 1984 - n) % 60 ;
