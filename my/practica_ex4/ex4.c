@@ -2,14 +2,16 @@
 #include <math.h>
 
 void main () {
-    int i, j, k, n, suma, result = 0, a[100][100];
+    int i, j, k, n, m, suma, result = 0, a[100][100];
 
     printf("n = ");
     scanf("%i", &n);
+    printf("m = ");
+    scanf("%i", &m);
 
     printf("Introduceti matricea %i x %i\n", n, n);
     for (i = 0; i < n; i++) {
-        for (j = 0; j < n; j++) {
+        for (j = 0; j < m; j++) {
             scanf("%i", &a[i][j]);
         }        
     }
