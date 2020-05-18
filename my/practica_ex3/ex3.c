@@ -10,9 +10,9 @@ int factorial(int n)  {
 
 float calculeaza(float x, int n) {
     if (n == 0)
-        return 1;
+        return x;
     else 
-        return ((((float)(n*n + 1)/factorial(n)) * (pow(x, n)/pow(2, n))) + calculeaza(x, n-1));
+        return ((pow(-1, n) * ((pow(x, 2*n+1))/(2*n+1))) + calculeaza(x, n-1));
 }
 
 int main () {
