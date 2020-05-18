@@ -99,7 +99,7 @@ void calculeaza() {
     FILE *output;
     char matchArray[200];
 
-    output = fopen("output.txt", "w");
+    output = fopen("output.txt", "a");
 
     for (i = 0; i < n; i++) {
         total = 0;
